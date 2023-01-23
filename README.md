@@ -7,7 +7,7 @@
 * Work with standart functionality of JavaScript.
 * Basic web development.
 * Work with linear data structures.
-* Understanding relationship between difrent IT concepts.
+* Understanding relationships between difrent IT concepts.
 * Basic skills for work with HTML and CSS.
 
 <img width="360" src="https://user-images.githubusercontent.com/73829572/214167906-ed44341e-0662-4955-81f7-7da728bc1381.png">
